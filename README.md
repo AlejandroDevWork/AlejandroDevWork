@@ -81,11 +81,11 @@
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Alejandro97tri">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandro97tri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <a href="https://github.com/AlejandroDevWork">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroDevWork&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-  <a href="https://github.com/Alejandro97tri">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandro97tri&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <a href="https://github.com/AlejandroDevWork">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroDevWork&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
   </a>
 </div>
 
