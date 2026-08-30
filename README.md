@@ -31,7 +31,7 @@
 - 🌱 Estoy expandiendo mis conocimientos en **BackEnd** para convertirme en FullStack.
 - 📱 Me apasiona el desarrollo de **aplicaciones móviles** en mi tiempo libre.
 - 💡 Curioso por naturaleza: siempre buscando nuevas tecnologías y soluciones útiles.
-- 📬 Contáctame: **alejandrof97g8@gmail.com**
+- 📬 Contáctame: **alejandrodevwork@gmail.com**
 
 </td>
 <td width="40%">
